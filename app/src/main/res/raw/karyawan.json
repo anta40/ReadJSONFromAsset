@@ -1,0 +1,24 @@
+{
+	"DaftarKaryawan": {
+		"Karyawan": [
+		
+		{
+			"nama": "Agus Darmawan",
+			"nip": "34009235",
+			"email": "agus.darmwan@test123.com"
+		},
+		
+		{
+			"nama": "Rendra Simangunsong",
+			"nip": "700392734",
+			"email": "rendra.simangunson@test123.com"
+		},
+		
+		{
+			"nama": "Jack Edwards",
+			"nip": "934550246",
+			"email": "jack.edwards@test123.com"
+		}
+	]
+	}
+}
